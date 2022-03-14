@@ -1,1 +1,8 @@
-
+<title>При установки приложения на этапе выбора directory отсутствует кнопка Install</title>
+<step1>Запустить setup.exe</step1>
+<step2>Выбрать папку установки</step2>
+<act>Отсутствует кнопка Install при выборе директории</act>
+<ext>При нажатии на кнопку Install приложение устанавливается</ext> 
+<envoironment>Windows 10 Home x64</envoironment>
+<severity>Major</severity>
+<priority>Medium</priority>
